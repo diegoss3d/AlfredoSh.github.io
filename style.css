@@ -15,7 +15,7 @@ body{
 
 header{
   background:#35424a;
-  color:#ffffff;
+  color:#336600;
   padding-top:30px;
   min-height:70px;
   border-bottom:#e8491d 3px solid;
@@ -157,7 +157,7 @@ footer{
     padding: 10px;
     margin-top: 20px; 
     color: white;
-    background-color: #e8491d;
+    background-color: #336600;
     text-align: center;
 }
 
